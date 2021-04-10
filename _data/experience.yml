@@ -4,6 +4,7 @@
   position: Full Stack Software Engineer
   duration: April, 2017 &mdash; Present
   location: London, United Kingdom (June, 2019 &mdash; Present), Cape Town, South Africa (April, 2017 &mdash; Jun, 2019)
+  url: https://www.zappi.io/web/
   summary: Worked on the Reporting Platform, which involved mostly Ruby on Rails development, with some Python (with Pandas), GraphQL and React on the side. In this team I acted as a core repo memeber, being involved in the Security of the platform, as well as a co-owner of the Quality initiative. As part of my time at Zappi, I also spent a year and a half acting as a Scrum Master/Developer, managing the teams Agile Process whilst also writing code at the same time. This struck my passion for facilitation and led to me leading two highly successful Design Sprints which led to the discovery of key projects that are center to the future technical direction of the company.<ul class="resume-item-list"><li><b>Scum Master/Developer (1.5 years) </b> Led the AutoCharting team on a full stack new feature of a key data anyltics and flexible charting framework.</li><li><b>Security Champion (2 years) </b> Monitored the Reporting Platforms web security by resolving various vulnerabilities and through logging + monitoring.</li><li><b>Quality Team (1 year)</b> Lead the quality team, which was a guild that focused on fixing performance/architecture issues in the platform.</li><li><b>Coach (1 year)</b> Part of the coaching team, working with colleagues to help them overcome any issues with which they are dealing with.</li><li><b>Bump Bot</b> Built a Flask application that was used as part of our continuous integration testing pipeline, to alert us of breaking changes from one repo to another</li></ul>
 
 # Director of Digital Stratgy
@@ -11,12 +12,14 @@
   position: Intern in the Embedded Firmware and Testing team
   duration:  June, 2016
   location: Cape Town, South Africa
+  url: https://lumkani.com/
   summary: As part of my University required vacation work I interned at Lumkani, a low-cost fire detector startup suited to deployment in informal settlements. <ul class="resume-item-list"><li>Wrote C firmware for PIC-based Sniffer embedded systems</li><li>Facilitated the manufacturing and assembly process of Sniffer units including the writing of test firmware</li>
 
 
 # Communications Coordinator
 - company: Nomad Productions and Entertainment
   position: Boss and Entertainment Manager
-  duration:   January, 2013  &mdash; October, 2017
+  duration: January, 2013  &mdash; October, 2017
   location: Cape Town, South Africa
+  url: https://www.facebook.com/nomadpro/
   summary: Entertainment for the upper-end of private events in Cape Town. <ul class="resume-item-list"><li>Successfully co-ordinated and participated in 100+ events</li><li>Managed marketing, quoting, invoicing, book keeping and dealing with clients in person</li><li>Gained strong public speaking skills from being MC at 70+ events</li>
